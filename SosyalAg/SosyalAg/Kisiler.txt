@@ -1,0 +1,9 @@
+﻿101,Tarkan,E
+102,Mustafa,E
+103,Seher,K
+104,Ali,E
+105,Ahmet,E
+106,Osman,E
+107,Remziye,K
+108,Cenk,E
+109,Hakan,E

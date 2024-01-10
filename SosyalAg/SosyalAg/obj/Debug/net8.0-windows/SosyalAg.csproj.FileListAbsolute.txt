@@ -1,0 +1,17 @@
+C:\Users\Hakan\Desktop\Projeler\SosyalAg\SosyalAg\bin\Debug\net8.0-windows\SosyalAg.exe
+C:\Users\Hakan\Desktop\Projeler\SosyalAg\SosyalAg\bin\Debug\net8.0-windows\SosyalAg.deps.json
+C:\Users\Hakan\Desktop\Projeler\SosyalAg\SosyalAg\bin\Debug\net8.0-windows\SosyalAg.runtimeconfig.json
+C:\Users\Hakan\Desktop\Projeler\SosyalAg\SosyalAg\bin\Debug\net8.0-windows\SosyalAg.dll
+C:\Users\Hakan\Desktop\Projeler\SosyalAg\SosyalAg\bin\Debug\net8.0-windows\SosyalAg.pdb
+C:\Users\Hakan\Desktop\Projeler\SosyalAg\SosyalAg\obj\Debug\net8.0-windows\SosyalAg.Form1.resources
+C:\Users\Hakan\Desktop\Projeler\SosyalAg\SosyalAg\obj\Debug\net8.0-windows\SosyalAg.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\Projeler\SosyalAg\SosyalAg\obj\Debug\net8.0-windows\SosyalAg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hakan\Desktop\Projeler\SosyalAg\SosyalAg\obj\Debug\net8.0-windows\SosyalAg.AssemblyInfoInputs.cache
+C:\Users\Hakan\Desktop\Projeler\SosyalAg\SosyalAg\obj\Debug\net8.0-windows\SosyalAg.AssemblyInfo.cs
+C:\Users\Hakan\Desktop\Projeler\SosyalAg\SosyalAg\obj\Debug\net8.0-windows\SosyalAg.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\Projeler\SosyalAg\SosyalAg\obj\Debug\net8.0-windows\SosyalAg.dll
+C:\Users\Hakan\Desktop\Projeler\SosyalAg\SosyalAg\obj\Debug\net8.0-windows\refint\SosyalAg.dll
+C:\Users\Hakan\Desktop\Projeler\SosyalAg\SosyalAg\obj\Debug\net8.0-windows\SosyalAg.pdb
+C:\Users\Hakan\Desktop\Projeler\SosyalAg\SosyalAg\obj\Debug\net8.0-windows\SosyalAg.genruntimeconfig.cache
+C:\Users\Hakan\Desktop\Projeler\SosyalAg\SosyalAg\obj\Debug\net8.0-windows\ref\SosyalAg.dll
+C:\Users\Hakan\Desktop\Projeler\SosyalAg\SosyalAg\obj\Debug\net8.0-windows\SosyalAg.KisiFormu.resources
